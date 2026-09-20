@@ -7,7 +7,7 @@ dashboard.
 
 No paid cloud AI API. No GPU. No training.
 
-**Demo video (3–5 min):** <https://drive.google.com/file/d/1zuhS6CmqSHxH82-3gJqptNzXaFK9OYRA/view?usp=drive_link>
+**Demo video (3–5 min):** <https://drive.google.com/file/d/1tuV7ao_2C7YuwjzxGjkyrKpLLmKiejYk/view?usp=sharing>
 
 ```
 Browser (Next.js 16 + TypeScript)
